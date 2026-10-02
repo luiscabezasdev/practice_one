@@ -14,3 +14,7 @@ RF-05 Avisar duplicados (mismo proveedor + referencia + valor) Aviso visible ant
 RF-06 Modo lote: escanear varias facturas seguidas, listarlas y exportar TSV Exportación idéntica a la actual
 RF-07 Linterna, cuando el dispositivo la soporte Botón visible solo si hay soporte
 RF-08 Alternativa: seguir permitiendo cargar archivo Sin regresión respecto a la herramienta actual
+
+# Cómo ejecutar
+
+La idea del proyecto es poder captar con la cámara el código de barras, y que lea y genere los datos necesarios para llenar la base de datos, y además permita guardar en la base de datos.

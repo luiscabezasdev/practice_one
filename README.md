@@ -20,3 +20,5 @@ RF-08 Alternativa: seguir permitiendo cargar archivo Sin regresión respecto a l
 La idea del proyecto es poder captar con la cámara el código de barras, y que lea y genere los datos necesarios para llenar la base de datos, y además permita guardar en la base de datos.
 
 · Aprendiendo a entender merge
+
+Es una nueva linea para reforzar fast/foward
